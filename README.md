@@ -4,7 +4,7 @@
 <img width="50%" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=SSIDSpin&theme=gotham&hide_border=false">
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SSIDSpin&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
 
-:speech_balloon:Student currently studying C# at A-level 
+:speech_balloon:Student Currently Studying Comp Sci At Uni
 
 __Disclaimer:__ Anything you find in my repositories is for educational use only and I'm not responsible for any damage caused!
 
